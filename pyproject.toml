@@ -20,7 +20,7 @@ exclude = [
 ]
 
 [tool.poetry.dependencies]
-python = ">=3.7, <4"
+python = ">=3.8, <4"
 
 [tool.poetry.dev-dependencies]
 
